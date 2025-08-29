@@ -94,7 +94,7 @@ CREATE TABLE comments (
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repository-url>
+   git clone git@github.com:Ganther3301/post-comments-service.git
    cd post-comments-service
    ```
 
@@ -312,7 +312,3 @@ The database and tables are created automatically on application startup using S
 4. Commit changes: `git commit -am 'Add feature'`
 5. Push to branch: `git push origin feature-name`
 6. Submit a pull request
-
-## 📄 License
-
-This project is created for assignment purposes and is available under the MIT License.
